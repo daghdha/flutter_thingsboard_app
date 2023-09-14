@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   thingsboard_client: 1.0.6
-  intl: ^0.17.0
+  intl: ^0.18.1
   flutter_secure_storage: ^6.0.0
   flutter_speed_dial: ^6.0.0
   cupertino_icons: ^1.0.2
@@ -40,8 +40,8 @@ dependencies:
   package_info: ^2.0.2
   dart_jsonwebtoken: ^2.2.0
   crypto: ^3.0.1
-  flutter_form_builder: ^7.0.0
-  form_builder_validators: ^8.3.0
+  flutter_form_builder: ^9.1.0
+  form_builder_validators: ^9.0.0
   universal_html: ^2.0.8
   universal_platform: ^1.0.0+1
   preload_page_view: ^0.1.6
