@@ -412,7 +412,7 @@ class _DashboardState extends TbContextState<Dashboard> {
                           if (!loading && active) {
                             return SizedBox.shrink();
                           } else {
-                            var data = MediaQueryData.fromWindow(
+                            var data = MediaQueryData.fromView(
                                 WidgetsBinding.instance.window);
                             var bottomPadding = data.padding.top;
                             if (widget._home != true) {

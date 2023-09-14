@@ -203,7 +203,7 @@ class _LoginPageState extends TbPageState<LoginPage> {
               builder: (BuildContext context, bool loading, child) {
                 if (loading) {
                   var data =
-                      MediaQueryData.fromWindow(WidgetsBinding.instance.window);
+                      MediaQueryData.fromView(WidgetsBinding.instance.window);
                   var bottomPadding = data.padding.top;
                   bottomPadding += kToolbarHeight;
                   return SizedBox.expand(
