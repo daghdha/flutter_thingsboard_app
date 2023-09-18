@@ -1,23 +1,23 @@
 {
   "images" : [
     {
+      "filename" : "Launch736.jpeg",
       "idiom" : "universal",
-      "filename" : "LaunchImage.png",
       "scale" : "1x"
     },
     {
+      "filename" : "Launch1334.jpeg",
       "idiom" : "universal",
-      "filename" : "LaunchImage@2x.png",
       "scale" : "2x"
     },
     {
+      "filename" : "Lauch2208.jpg",
       "idiom" : "universal",
-      "filename" : "LaunchImage@3x.png",
       "scale" : "3x"
     }
   ],
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   }
 }
